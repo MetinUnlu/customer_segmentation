@@ -52,6 +52,10 @@ Deep analysis of each customer cluster, focusing on the most profitable segments
 - **Cluster 0:** Young, affluent customers with significant spending power.
 - **Cluster 2:** Less frequent purchasers but with considerable profit contributions.
 
+### Dashboard for analysis results:
+
+![Dashboard](Items/dashboard.png)
+
 ## Conclusion
 
 The integration of customer data analytics and machine learning has resulted in actionable insights for the company, enabling data-driven decision-making for marketing resource allocation and customer engagement strategies.
