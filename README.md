@@ -32,7 +32,7 @@ This integrative approach combines the precision of data science with the insigh
 
 Here are some of the visualizations and results obtained from the analysis:
 
-![Output 1](images/british/output1.png)
-![Output 2](images/british/output2.png)
-![Output 3](images/british/output3.png)
+![Output 1](images/output1.png)
+![Output 2](images/output2.png)
+![Output 3](images/output3.png)
 
