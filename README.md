@@ -3,8 +3,6 @@ KPMG Virtual Intership with Forage
 
 # British Airways Sentiment Analysis Project
 
-![British Airways Dashboard](Items/britishdashboard.jpg)
-
 In the competitive airline industry, understanding customer sentiment is pivotal. This project dissects British Airways' customer feedback through advanced sentiment analysis, aiming to enhance the flying experience by pinpointing exactly what travelers applaud or criticize.
 
 ## Objective and Methodology
@@ -29,6 +27,10 @@ This integrative approach combines the precision of data science with the insigh
 - Data Visualization
 
 ## Project Outputs
+
+The dashboard of analysis results:
+
+![British Airways Dashboard](Items/britishdashboard.jpg)
 
 Here are some of the visualizations and results obtained from the analysis:
 
