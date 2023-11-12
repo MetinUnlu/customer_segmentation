@@ -1,10 +1,6 @@
 # customer_segmentation
 KPMG Virtual Intership with Forage
 
-Certainly! Here's how you can convert the HTML content into a README text format for your GitHub project on British Airways Sentiment Analysis:
-
----
-
 # British Airways Sentiment Analysis Project
 
 ![British Airways Dashboard](images/britishdashboard.jpg)
@@ -40,6 +36,3 @@ Here are some of the visualizations and results obtained from the analysis:
 ![Output 2](images/british/output2.png)
 ![Output 3](images/british/output3.png)
 
----
-
-Feel free to adjust the image paths (`images/britishdashboard.jpg`, `images/british/output1.png`, etc.) according to the actual directory structure of your repository. This README format is optimized for readability and presentation in a GitHub repository.
